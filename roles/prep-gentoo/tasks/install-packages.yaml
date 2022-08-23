@@ -1,0 +1,4 @@
+---
+- name: Install btrfs-progs
+  portage:
+    name: sys-fs/btrfs-progs
